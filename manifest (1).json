@@ -1,0 +1,13 @@
+{
+  "background_color": "#f2f7fb",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "نقل فرناكة",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "fornaka",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.transport.fornaka",
+  "description": "تطبيق تفاعلي لتقديم ملاحظات وشكاوى النقل في بلدية فرناكة يهدف الى تحسين جودة الخدمات وتوفير قاعدة بيانات رقمية موحدة للجهات المعنية لايجاد حلول واتخاذ قرارات فعالة"
+}
