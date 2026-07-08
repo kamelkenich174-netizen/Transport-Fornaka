@@ -1,0 +1,6 @@
+{
+  "name": "Web App to Mobile Packager",
+  "description": "Convert web applications to native Android and iOS mobile apps using Flutter or Capacitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
